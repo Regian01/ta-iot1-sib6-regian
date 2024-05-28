@@ -1,8 +1,8 @@
 <div class="iq-sidebar">
             <div class="iq-sidebar-logo d-flex justify-content-between">
                <a href="index.html">
-               <img src="images/logo.png" class="img-fluid" alt="">
-               <span>Sofbox</span>
+               <img src="images/iconbaru.jpeg" class="img-fluid" alt="">
+               <span>IoT1</span>
                </a>
                <div class="iq-menu-bt align-self-center">
                   <div class="wrapper-menu">
