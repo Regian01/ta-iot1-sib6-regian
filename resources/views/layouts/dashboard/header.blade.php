@@ -2,20 +2,11 @@
     <div class="iq-navbar-custom">
         <div class="iq-sidebar-logo">
             <div class="top-logo">
-                <a href="index.html" class="logo">
-                    <img src="images/logo.png" class="img-fluid" alt="">
-                    <span>Sofbox</span>
-                </a>
+                <h5 class="mb-0">Dashboard</h5>
             </div>
         </div>
         <div class="navbar-breadcrumb">
             <h5 class="mb-0">Dashboard</h5>
-            <nav aria-label="breadcrumb">
-                <ul class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Home</li>
-                </ul>
-            </nav>
         </div>
         <nav class="navbar navbar-expand-lg navbar-light p-0">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -30,10 +21,6 @@
             </div>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto navbar-list">
-                    <!-- Hapus elemen pencarian -->
-                    <!-- Hapus elemen surat -->
-                    <!-- Hapus elemen keranjang -->
-                    <!-- Hapus elemen notifikasi -->
                     <li class="nav-item iq-full-screen"><a href="#" class="iq-waves-effect" id="btnFullscreen"><i class="ri-fullscreen-line"></i></a></li>
                 </ul>
             </div>
