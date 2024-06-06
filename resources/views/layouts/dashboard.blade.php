@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-    
+
    <head>
       @include('layouts.dashboard._head')
    </head>
@@ -17,7 +17,7 @@
          <!-- TOP Nav Bar -->
          @include('layouts.dashboard.header')
          <!-- TOP Nav Bar END -->
-         
+
          <!-- Page Content  -->
          <div id="content-page" class="content-page">
             <div class="container-fluid">
@@ -35,3 +35,4 @@
       @include('layouts.dashboard._foot')
    </body>
 </html>
+

@@ -1,5 +1,5 @@
 @extends('layouts.dashboard')
 
 @section('content')
-    k
+    khaliffa regian gunawan
 @endsection
